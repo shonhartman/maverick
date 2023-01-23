@@ -46,7 +46,7 @@ export default function Experience() {
       />
       <Cloud
         opacity={0.5}
-        speed={0.5} // Rotation speed
+        speed={0.95} // Rotation speed
         width={10} // Width of the full cloud
         depth={1.5} // Z-dir depth
         segments={20} // Number of particles
